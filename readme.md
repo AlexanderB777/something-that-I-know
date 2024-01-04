@@ -14,4 +14,5 @@
 **javac -encoding UTF-8 _MainClass.java_** - компиляция нового кода<br>
 **java -Dfile.encoding=UTF-8 _MainClass_** - запуск приложения<br> 
 **jar cfe someApp.jar MainClass -C bin .** - компиляция архива Jar из байткода<br>
-**java -jar -Dfile.encoding=UTF-8 MainClass.jar** - запуск скомпилированного архива Jar 
+**java -jar -Dfile.encoding=UTF-8 MainClass.jar** - запуск скомпилированного архива Jar <br>
+**git remote add origin <url>** - СЃРІСЏР·РєР° СЃ СѓРґР°Р»РµРЅРЅС‹Рј СЂРµРїРѕР·РёС‚РѕСЂРёРµРј
